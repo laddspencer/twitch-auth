@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/laddspencer/twitch-auth/issues"
   },
-  "homepage": "https://github.com/laddspencer/twitch-auth#readme"
+  "homepage": "https://github.com/laddspencer/twitch-auth#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
