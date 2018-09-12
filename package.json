@@ -1,0 +1,23 @@
+{
+  "name": "twitch-auth",
+  "version": "1.0.0",
+  "description": "Utility module for handling Twitch.tv chatbot authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laddspencer/twitch-auth.git"
+  },
+  "keywords": [
+    "Twitch",
+    "OAuth"
+  ],
+  "author": "Ladd Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laddspencer/twitch-auth/issues"
+  },
+  "homepage": "https://github.com/laddspencer/twitch-auth#readme"
+}
