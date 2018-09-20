@@ -288,3 +288,24 @@ function launch(args) {
 launch(parseArgs(process.argv));
 //----------------------------------------------------------------
 ```
+
+My `config.json` looks like this:
+```
+{
+  "tmi": {
+    "channels": [
+      "laddspencer"
+    ],
+    "username": "PhantsBot"
+  }
+}
+```
+
+My `creds.json` looks like this (no, those are not real creds, use your own!):
+
+```
+{
+"client_id": "4jkcd8ejjwkemvnhuewnc98ku87uyh",
+"client_secret": "d9rkkijun4jfunywhqssx6456hey7u"
+}
+```
