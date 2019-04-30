@@ -1,5 +1,7 @@
 # twitch-auth
 Utility module for handling Twitch.tv chatbot authentication. The authentication process is detailed [here](https://dev.twitch.tv/docs/authentication/getting-tokens-oauth/#oauth-authorization-code-flow).
+Check out the NPM page: https://www.npmjs.com/package/twitch-auth
+Install with: npm install twitch-auth
 
 # exports
 The following functions are exported by the module.
